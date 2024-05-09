@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//Calculator designed by Ibtisam Afzal
+
 int main() {
   int num1, num2;
   char op;
